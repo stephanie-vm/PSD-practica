@@ -1,0 +1,31 @@
+.content-5{
+    background-color: $blanco;
+    margin-bottom: 30px;
+    padding-bottom: 68px;
+}
+.content-5-info{
+    h1{
+        color: $color-h1;
+        text-align: center;
+        padding-top:67px;
+        margin-bottom:5%;
+    }
+    p{
+        color:$color-p;
+        text-align: center;
+        line-height:1.5rem;
+        margin-bottom:9%;
+    }
+}
+.link-5{
+    color: $blanco;
+    text-decoration: none;
+    font-size:$fz-boton-50;
+    font-weight:bold;
+    margin:0 183px;
+    border: 1px solid $rosado;
+    border-radius:3px;
+    background-color: $rosado;
+    padding:22px 24px;
+    text-transform: uppercase;
+}
