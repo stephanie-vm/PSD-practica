@@ -1,0 +1,43 @@
+.content-img-2{
+    max-width: 100%;
+    width: 100%;
+    margin-bottom:4%;
+}
+.content-2{
+    background-color: white;
+    padding-bottom:11%;
+    margin-bottom:3.5%;
+}
+.content-2-info{
+    h1{
+        font-size:24px;
+        color: $color-h1;
+        text-align: center;
+        margin-bottom:6%;
+    }
+    p{
+        font-size: $fz-boton-50;
+        color:$color-p;
+        text-align: center;
+        line-height:1.5rem;
+        margin-bottom:6%;
+    }
+    a{
+        color: $link-active;
+        text-decoration: underline;
+    }
+}
+.content-2-link{
+    color: $blanco;
+    text-decoration: none;
+    font-size:13px;
+    font-weight:normal;
+    margin-left:235px;
+    border: 1px solid $amarillo;
+    border-radius:2px;
+    background-color: $amarillo;
+    padding:13px 27px;
+    text-transform: uppercase;
+}
+
+
