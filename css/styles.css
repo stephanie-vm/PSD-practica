@@ -599,3 +599,21 @@ h1 {
   background-color: #e02d74;
   padding: 22px 24px;
   text-transform: uppercase; }
+
+.footer {
+  margin: 0; }
+
+.footer-text p {
+  font-size: 13px;
+  color: #888888;
+  float: left;
+  margin-right: 190px; }
+
+.footer-text a {
+  font-size: 13px;
+  color: #888888; }
+
+.footer-iconos {
+  width: 115px;
+  float: right;
+  margin-top: -30px; }
