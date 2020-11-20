@@ -1,0 +1,28 @@
+@media(max-width:768px){
+    .wraper.espacio-tablet{
+            padding:20px 0;
+    }
+    .nav{
+        display: none;
+    }
+    .nav-link-menu{
+        margin-top:40px;
+        margin-left:500px;
+        text-align: right;
+        display: block;
+    }
+    /* Main content */
+    .img-galery .img1{
+        width:34.7%;
+        
+    }
+    .img-galery .img1 + .img1{
+        margin-left: 0px;
+    }
+
+    .footer-iconos{
+        float:none;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+}
